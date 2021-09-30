@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning EEc, for now the SELT cource
 - 💞️ I’m looking to collaborate on projects in my courses.
 - 📫 reach me with:
+      tuohzheng@uiowa.edu / 
       tuoheng.zheng@outlook.com
 
 <!---
